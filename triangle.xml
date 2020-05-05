@@ -1,0 +1,14 @@
+<Triangle>
+   <point1>
+      <x>0.1</x>
+      <y>0.0</y>
+   </point1>
+   <point2>
+      <x>2.0</x>
+      <y>3.0</y>
+   </point2>
+   <point3>
+      <x>5.0</x>
+      <y>0.0</y>
+   </point3>
+</Triangle>
